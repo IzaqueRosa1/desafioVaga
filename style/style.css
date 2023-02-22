@@ -1,0 +1,17 @@
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    font-family: Roboto;
+}
+
+.result {
+    background-color: green;
+    color: aliceblue;
+    font-family: roboto;
+    font-size: 100px;
+    text-align: center;
+}
